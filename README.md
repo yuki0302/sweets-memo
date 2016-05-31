@@ -8,4 +8,4 @@
 
 [その他](other.md)
 
-### [Instagram](https://www.instagram.com/yuki_302a/)
+### [<font color="deeppink">Instagram</font>](https://www.instagram.com/yuki_302a/)
