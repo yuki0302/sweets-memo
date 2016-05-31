@@ -7,3 +7,5 @@
 [パフェ](cake.md)
 
 [その他](other.md)
+
+### [Instagram](https://www.instagram.com/yuki_302a/)
